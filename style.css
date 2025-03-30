@@ -1,0 +1,12 @@
+.navigation-bar {
+    display: flex;
+    height: 50px;
+    width: 1000px;
+    justify-content: space-around;
+    margin: auto;
+
+}
+
+a {
+    size: 500px;
+}
